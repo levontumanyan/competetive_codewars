@@ -1,3 +1,5 @@
+// given a string input of brackets, return whether the brackets are balanced or not
+
 function validParentheses(parens) {
 
     var arr = parens.split("");
