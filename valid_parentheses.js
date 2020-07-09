@@ -36,4 +36,4 @@ function validParentheses(parens) {
 
 }
 
-console.log(validParentheses("()()(("));
+console.log(validParentheses("()"));
